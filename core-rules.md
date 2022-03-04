@@ -81,7 +81,7 @@ The following is a list of changes to the 40k core rules.
 
 - When using a ***Grenade*** <sub>(p. 218)</sub> weapon, follow the above steps for ***Blast Weapons***, but reduce the blast range to 2".
 
-- Only 1 friendly model can use a ***Grenade*** weapon each shooting phase.
+- 1 friendly model, plus 1 more for every 100 points spent on your army, can use a ***Grenade*** weapon each shooting phase.
 
 ### Morale Phase
 
