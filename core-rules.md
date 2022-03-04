@@ -12,7 +12,7 @@
 
 ## Immutable Laws
 
-- Scout Team is played according to the normal 40k rules for a game of ***Combat Patrol*** <sub>(p. 244)</sub> size, unless stated otherwise.
+- Scout Team is played according to the normal 40k rules for a game size of ***Combat Patrol*** <sub>(p. 244)</sub>, unless stated otherwise.
 
 - Armies must calculate their cost in points.
 
