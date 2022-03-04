@@ -6,7 +6,7 @@ This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according
 
 To be an effective gateway into 40k for new players:
 
-- Use the normal 40k rules as the foundation, and make minimal alterations. This means new players don't need to learn two mostly distinct rule sets. It also means new players are only investing into materials useful for regular 40k.
+- Use the normal 40k rules as the foundation, and make minimal alterations. This means new players don't need to learn two, mostly distinct rule sets. It also means new players are only investing into materials useful for regular 40k.
 
 - Support very small games that can generally be played using a single box of infantry. This keeps the required time/money investment low for new players.
 
@@ -16,12 +16,6 @@ To be an effective gateway into 40k for new players:
 
 To serve as alternative way to play 40k for experienced players:
 
-- Quicker games that are easier to squeeze into an adult's schedule.
-- Easier to physically transport the items necessary to play the game.
-- Very quick to learn.
-
-## TODO
-
-### Faction Specific Rules:
-
-- [ ] Reanimation Protocol.
+- Quicker games that are easier to squeeze into a busy schedule.
+- Easier to physically transport the items necessary to play.
+- Very quick to learn for existing 40k players.
