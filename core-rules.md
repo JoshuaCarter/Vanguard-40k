@@ -4,7 +4,7 @@
 
 - If a rule in this list contradicts an earlier rule, then the latter takes precedence.
 
-- Pay special attention to the difference between a unit and a model.
+- Pay special attention to the difference between a unit and a model <sub>(p. 197)</sub>.
 
 - Text in ***Bold Italics*** refers to an official term from the core rules, and will often be paired with a page reference.
 
