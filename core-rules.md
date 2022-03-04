@@ -2,7 +2,7 @@
 
 ## Reading Guide
 
-- If a rule in this list contradicts an earlier rule, then the latter takes precedence.
+- If any rule here contradicts an earlier rule, then the latter takes precedence.
 
 - Text in ***Bold Italics*** refers to an official term from the core rules, and will often be paired with a page reference.
 
