@@ -24,15 +24,17 @@
 
 ## Scout Detachment
 
-A Scout Detachment is identical to ***Patrol Detachment*** <sub>(p. 248)</sub>, with the following exceptions:
+A Scout Detachment is identical to a ***Patrol Detachment*** <sub>(p. 248)</sub>, with the following exceptions:
 
 - This detachment is always considered ***Battle Forged*** <sub>(p. 244)</sub>.
-- The ***HQ*** unit requirement only applies if playing with over 300 points.
+- The ***HQ*** unit requirement only applies if playing a game over 300 points.
 - The ***TROOP*** unit requirement can be met with an ***Understrength Unit*** <sub>(p. 241)</sub> provided:
 	- The unit's total cost is at least half your total points budget; **OR**
 	- The unit's total cost is at least 100 points.
-- All other units not part of this detachment's requirements may be an ***Understrength Unit*** without penalty.
+- All other units not part of this detachment's minimum requirements may be an ***Understrength Unit*** without penalty.
 - You can only include a single unit of any given ***Unit Name*** <sub>(p. 202)</sub>.
+
+> The *Unit Name* restriction is to prevent unit leader stacking.
 
 ## Core Rules Alterations
 
@@ -66,24 +68,24 @@ The following is a list of changes to the 40k core rules.
     1. Select a ***Blast*** weapon from that model to fire.
     1. Select the initial target model for that weapon.
     1. Determine which other models are ***visible*** <sub>(p. 216)</sub> to, and within 3" range of, the initial target.
-        - If you control any of these models, you must select a different initial target.
+        - If any of these models are friendly, you must select a different initial target.
         - If all of these models are enemies, treat these models as a single big unit for the purpose of resolving this weapon's attacks.
     1. Calculate the total number of attacks for this blast weapon.
     1. Resolve ***Hit Rolls*** (p. 220) simultaneously.
     1. Resolve ***Wound Rolls*** (p. 220) simultaneously.
         - When the target unit contains models with a mix of ***Toughness*** values, the majority ***T*** value is used; in the case of a tie,  use the higher value.
-        - The player commanding the target unit still allocates wounds to models of their choosing.
+        - The player commanding the enemy unit allocates wounds to models of their choosing.
     1. Resolve attacks.
 
 > This rule prevents blast weapons from being useless against hoards. It also adds the interesting ability to attack targets that aren't *visible* to the shooter.
 
-- When throwing a ***Grenade*** <sub>(p. 218)</sub>, follow the above steps for ***Blast Weapons***, but reduce the range to 2".
+- When using a ***Grenade*** <sub>(p. 218)</sub> weapon, follow the above steps for ***Blast Weapons***, but reduce the blast range to 2".
 
-- Only one model in your army can throw a ***Grenade*** each shooting phase.
+- Only 1 friendly model can use a ***Grenade*** weapon each shooting phase.
 
 ### Morale Phase
 
-- For the duration of the ***Morale Phase*** <sub>(p. 232)</sub> treat all of your models on the battlefield as a single big unit.
+- For the duration of the ***Morale Phase*** <sub>(p. 232)</sub> treat all friendly models on the battlefield as a single big unit.
 
 > This means that each player will only ever perform a single ***Morale Check*** per ***Battle Round*** <sub>(p. 204)</sub>.
 
@@ -101,4 +103,4 @@ You may find that some faction specific rules (***Abilities***, ***Relics***, **
 
 Don't apply the Big Unit Rule to core rules, or to rules that are simply less impactful due to only affecting a single-model unit rather than a multi-model unit.
 
-> See the *Morale Phase* rules for an example of this rule being applied.
+> See the *Morale Phase* rules for an example of this rule being applied. You should discuss this with your opponent until you both agree on a solution.
