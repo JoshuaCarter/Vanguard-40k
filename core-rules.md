@@ -1,4 +1,4 @@
-# 40k Scout Team
+# 40k Scout Team Rules
 
 ## The Golden Rules
 
@@ -46,7 +46,7 @@ The following rules override the 40k core rules.
 
 ### General
 
-### Independent Models
+#### Independent Models
 
 - After you have completed the ***Muster Armies*** <sub>(p. 236)</sub> mission step, all models are treated as separate units, each containing 1 model, with a ***Starting Strength*** <sub>(p. 201)</sub> of 1.
 
