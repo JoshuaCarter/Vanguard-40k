@@ -2,9 +2,10 @@
 
 This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according to what I believe to be the proper objectives.
 
-You can read the rules [here](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules.md).
+- [Core Rules](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules.md)
+- [FAQ](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/faq.md)
 
-## Objectives
+## Design Goals
 
 To be an effective gateway into 40k for new players:
 
