@@ -99,7 +99,7 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 #### Team Spirit
 
-For the duration of the ***Morale Phase*** treat all friendly models on the battlefield as a single **Combined Unit**.
+For the duration of the ***Morale Phase*** treat all friendly models on the battlefield as a **Combined Unit**.
 
 > This means that at most, each player will roll a single ***Morale Check*** per ***Morale Phase***.
 
