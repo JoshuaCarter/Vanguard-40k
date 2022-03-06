@@ -60,7 +60,7 @@ All models are considered to be in ***Unit Coherency*** at all times, even when 
 
 #### Split Fire
 
-When selecting a target for a ranged weapon with multiple attacks, you can choose to allocate those attacks to multiple enemies by following these steps:
+When ***Selecting Targets*** for a ranged weapon with multiple attacks, you can choose to allocate those attacks to multiple enemies by following these steps:
 
 1. Select the *initial target* model for this weapon.
 1. Allocate the first attack to the *initial target*.
@@ -80,7 +80,7 @@ Weapons with the ***Blast*** ability have a **Blast Range** of:
 - 1" if it is a ***Grenade***.
 - 2" for all other ***Blast*** weapons.
 
-When selecting a target for a ranged weapon with the ***Blast*** ability, follow these steps:
+When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, follow these steps:
 
 1. Select the *initial target* model for this weapon.
     - There must be no friendly models within **Blast Range** range of the *initial target*.
@@ -148,6 +148,7 @@ This is a list of terms referenced from the 40k Core Book and the page you can f
 | ***Morale Phase*** | 232 |
 | ***Muster Armies*** | 236 |
 | ***Patrol Detachment*** | 248 |
+| ***Selecting Targets*** | 216 |
 | ***Starting Strength*** | 201 |
 | ***Understrength*** | 241 |
 | ***Unit Coherency*** | 198 |
