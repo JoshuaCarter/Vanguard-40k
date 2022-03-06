@@ -35,6 +35,7 @@ A **Scout Detachment** is identical to a ***Patrol Detachment***, with the follo
 	- Is ***Understrength*** and costs at least 65 points; **OR**
     - Is ***Understrength*** and costs at least 1/3 of the total points cost for your army.
 - Units that are not used to satisfy the minimum requirements of this detachment may be ***Understrength*** without penalty.
+- Units may ignore the unit size requirements for ***Wargear Options***.
 
 > This unique detachment allows players to bring an interesting variety of models in their armies, even for very small games. Requiring a few ***TROOP*** models keeps the game "feeling like 40k", and re-adding the ***HQ*** requirement in larger games helps slow the growing model count.
 
@@ -60,14 +61,14 @@ All models are considered to be in ***Unit Coherency*** at all times, even when 
 
 #### Split Fire
 
-When ***Selecting Targets*** for a ranged weapon with multiple attacks, you can choose to allocate those attacks to multiple enemies by following these steps:
+When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemies by following these steps:
 
-1. Select the *initial target* model for this weapon.
-1. Allocate the first attack to the *initial target*.
+1. Select the *primary target* model for this weapon.
+1. Allocate the first attack to the *primary target*.
 1. Allocate each remaining attack to:
-    - The *initial target*; **OR**
+    - The *primary target*; **OR**
     - Any other *enemy* model that is:
-        - Within 3" of the *initial target*; **AND**
+        - Within 3" of the *primary target*; **AND**
         - Within range of the shooter; **AND**
         - ***Visible*** to the shooter.
 
@@ -82,16 +83,30 @@ Weapons with the ***Blast*** ability have a **Blast Range** of:
 
 When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, follow these steps:
 
-1. Select the *initial target* model for this weapon.
-    - There must be no friendly models within **Blast Range** range of the *initial target*.
+1. Select the *primary target* model for this weapon.
+    - There must be no friendly models within **Blast Range** range of the *primary target*.
 1. Form a **Combined Unit** of all enemies which are:
-    - Within **Blast Range** of the *initial target*; **AND**
-    - ***Visible*** to the *initial target*.
+    - Within **Blast Range** of the *primary target*; **AND**
+    - ***Visible*** to the *primary target*.
 1. Calculate the total number of attacks against the **Combined Unit**.
-1. Allocate the first attack to the *initial target* model.
+1. Allocate the first attack to the *primary target* model.
 1. Allocate the remaining attacks *evenly* to models in the **Combined Unit**, in an order of your choosing.
 
 > This prevents blast weapons from being useless against enemy hoards. It also adds the interesting ability to attack targets that aren't ***visible*** to the shooter (by firing at a nearby model who is).
+
+#### Trigger Discipline
+
+When ***Selecting Targets*** for a ranged weapon, you must be able to draw a straight line, 1mm in thickness, between the center of the shooter's base and target's base, without the line crossing over or through the base or hull of any friendly model. Other enemy bases are ignored.
+
+> This rewards careful positioning and creates a more engaging skirmish experience.
+
+#### Bodyguards
+
+Replace the ***Look Out, Sir*** rule to read:
+
+*You cannot target a **CHARACTER** model, whose base diameter is smaller than 60mm, while that model is within 2" of any other enemy model that is visible to the shooter. For ***Blast*** weapons this only applies to selecting the primary target.*
+
+> This rule encourages players to spend points on strong **CHARACTER** models which is healthy in larger games, while also preventing tiny cannon fodder from screening very large models.
 
 ---
 
@@ -145,6 +160,7 @@ This is a list of terms referenced from the 40k Core Book and the page you can f
 | ***Consolidate*** | 231 |
 | ***Grenade*** | 218 |
 | ***Keyword*** | 203 |
+| ***Look Out, Sir*** | 219 |
 | ***Morale Phase*** | 232 |
 | ***Muster Armies*** | 236 |
 | ***Patrol Detachment*** | 248 |
