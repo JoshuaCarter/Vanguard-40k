@@ -80,7 +80,7 @@ Weapons with the ***Blast*** ability have a **Blast Range** of:
 - 1" if it is a ***Grenade***.
 - 2" for all other ***Blast*** weapons.
 
-When shooting with a ***Blast*** weapon, follow these steps:
+When selecting a target for a ranged weapon with the ***Blast*** ability, follow these steps:
 
 1. Select the *initial target* model for this weapon.
     - There must be no friendly models within **Blast Range** range of the *initial target*.
