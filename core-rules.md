@@ -96,7 +96,7 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 #### Trigger Discipline
 
-When ***Selecting Targets*** for a ranged weapon, you must be able to draw a straight line, 1mm in thickness, between the center of the shooter's base and target's base, without the line crossing over or through the base or hull of any other friendly model. Other enemy bases are ignored.
+When ***Selecting Targets*** for a ranged weapon, you must be able to draw a straight line, 1mm in thickness, between the center of the shooter's base and target's base, without the line crossing over or through the base or hull of any other friendly model. The bases of other enemies are ignored.
 
 > This rewards careful positioning and creates a more engaging skirmish experience.
 
