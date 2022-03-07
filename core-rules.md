@@ -1,6 +1,6 @@
 # 40k Vanguard Rules
 
-***Text in Bold-Italics*** refers to an official term or rule from the 40k core rules.
+***Text in Bold-Italics*** refers to an official term or rule from the 40k core rules. See [**References**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#references)
 
 **Text in Bold** refers to **Vanguard** specific term or rule.
 
@@ -48,7 +48,7 @@ The following rules override the 40k core rules.
 
 After you have completed the ***Muster Armies*** mission step, all units in your army are split up so that each model is now its own unit with a ***Starting Strength*** of 1.
 
-All models are considered to be in ***Unit Coherency*** at all times, even when part of a **Combined Unit**.
+All models are considered to be in ***Unit Coherency*** at all times, even when part of a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units)
 
 > This allows models to act autonomously for the duration of the game. Wherever the core rules refers to a "unit", you can mentally substitute "model" (with some exceptions covered further below).
 
@@ -82,7 +82,7 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 1. Select the *primary target* model for this weapon.
     - There must be no friendly models within **Blast Range** range of the *primary target*.
-1. Form a **Combined Unit** of all enemies which are:
+1. Form a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units) of all enemies which are:
     - Within **Blast Range** of the *primary target*; **AND**
     - ***Visible*** to the *primary target*.
 1. Calculate the total number of attacks against the **Combined Unit**.
@@ -107,7 +107,7 @@ You cannot target a **CHARACTER** model as the primary target for a ranged weapo
 
 #### Team Spirit
 
-For the duration of the ***Morale Phase*** treat all friendly models on the battlefield as a **Combined Unit**.
+For the duration of the ***Morale Phase*** treat all friendly models on the battlefield as a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units).
 
 > This means that at most, each player will roll a single ***Morale Check*** per ***Morale Phase***.
 
