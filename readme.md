@@ -15,7 +15,7 @@ This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according
 
 #### Be an effective gateway into 40k for new players:
 
-- Use the normal 40k rules as the foundation, and make minimal alterations. This means that the time and money a player invests into **Vanguard** effectively carries over into 40k. It also means we can make full use of the many fun and flavorful rules found in the 40k codex books.
+- Use the normal 40k rules as the foundation, and make minimal alterations. This means that the time and money a player invests into **Vanguard** effectively carries over into regular 40k. It also means we can make full use of the many fun rules found in the 40k codex books.
 
 - Support very small games that can generally be played using a single box of infantry. This keeps the required time/money investment low for new players.
 
