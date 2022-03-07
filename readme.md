@@ -1,15 +1,15 @@
-# Warhammer 40k Scout Team
+# Warhammer 40k Vanguard
 
 This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according to what I believe to be the proper objectives.
 
 - [Core Rules](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules.md)
-- [Core Rules FAQ](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/faq.md)
+- [Core Rules FAQ](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules-faq.md)
 
 ## Design Goals
 
 To be an effective gateway into 40k for new players:
 
-- Use the normal 40k rules as the foundation, and make minimal alterations. This means that the time and money a player invests into *Scout Team* effectively carries over into 40k. It also means we can make full use of the many fun and flavorful rules found in the 40k codex books.
+- Use the normal 40k rules as the foundation, and make minimal alterations. This means that the time and money a player invests into **Vanguard** effectively carries over into 40k. It also means we can make full use of the many fun and flavorful rules found in the 40k codex books.
 
 - Support very small games that can generally be played using a single box of infantry. This keeps the required time/money investment low for new players.
 
