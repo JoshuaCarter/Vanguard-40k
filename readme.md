@@ -19,6 +19,6 @@ This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according
 
 #### Be an alternative way to play 40k for experienced players:
 
-- Quicker games that are easier to squeeze into a busy schedule.
-- Fewer models to transport.
-- Very quick to learn for existing 40k players.
+- Quicker games.
+- Easier to transport.
+- Simple to learn.
