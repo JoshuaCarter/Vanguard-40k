@@ -2,7 +2,7 @@
 
 ### General
 
-- [ ] Scout Detachment image.
+- [ ] Vanguard Detachment image.
 
 ### Faction Specific Rules:
 
