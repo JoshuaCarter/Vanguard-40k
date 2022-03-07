@@ -58,7 +58,7 @@ All models are considered to be in ***Unit Coherency*** at all times, even when 
 
 #### Split Fire
 
-When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemies by following these steps:
+When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemy models by following these steps:
 
 1. Select the *primary target* model for this weapon.
 1. Allocate the first attack to the *primary target*.
