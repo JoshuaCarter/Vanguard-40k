@@ -129,11 +129,12 @@ You may find that some faction specific rules (***Abilities***, ***Relics***, **
     - ***Coherency*** range (2"); **OR**
     - ***Consolidate*** range (3"); **OR**
     - ***Move*** range; **OR**
-    - ***Aura*** range; **OR**
+    - ***Ability*** range; **OR**
+    - ***Strategem*** range; **OR**
 - Any of the above but also restricted to ***visible*** models; **OR**
 - Any of the above but also restricted to ***friendly*** or ***enemy*** models.
 
-Don't apply the **Combined Unit** rule to core rules, or to rules that still function as intended but only affect an single model due to the **Split Units** rule.
+Don't apply the **Combined Unit** rule to core rules, or to rules that still function as intended but only affects a single model due to the **Split Units** rule.
 
 > By way of example, the **Combined Unit** rule is already applied to the ***Morale Phase*** rules and ***Blast Weapons*** rules.
 >
