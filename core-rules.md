@@ -2,7 +2,7 @@
 
 ***Text in Bold-Italics*** refers to an official term or rule from the 40k core rules. See [**References**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#references)
 
-**Text in Bold** refers to **Vanguard** specific term or rule.
+**Text in Bold** refers to a **Vanguard** specific term or rule.
 
 *Text in Italics* is normal emphasis.
 
