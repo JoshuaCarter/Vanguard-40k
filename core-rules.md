@@ -67,7 +67,7 @@ When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability
 1. Allocate the first attack to the *primary target*.
 1. Allocate each remaining attack to:
     - The *primary target*; **OR**
-    - Any other *enemy* model that is:
+    - Any other enemy model that is:
         - Within 3" of the *primary target*; **AND**
         - Within range of the shooter; **AND**
         - ***Visible*** to the shooter.
@@ -96,11 +96,15 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 #### Bodyguards
 
-Replace the ***Look Out, Sir*** rule to read:
+This rule replaces the ***Look Out, Sir*** rule.
 
-*You cannot target a **CHARACTER** model, whose base diameter is smaller than 60mm, while that model is within 2" of any other enemy model that is visible to the shooter. For ***Blast*** weapons this only applies to selecting the primary target.*
+You cannot target a **CHARACTER** model as the primary target for a ranged weapon if:
+- The **CHARACTER** model's base diameter is smaller than 60mm; **AND**
+- The **CHARACTER** model is within 2" of any other enemy model that is:
+    - ***Visible*** to the shooter; **AND**
+    - Closer to the shooter.
 
-> This rule encourages players to spend points on strong **CHARACTER** models which is healthy in larger games, while also preventing tiny cannon fodder from screening very large models.
+> This rule encourages players to spend points on strong **CHARACTER** models by retaining the ability to protect them, which is healthy in larger games, while also preventing tiny cannon fodder from screening very large models.
 
 ---
 
