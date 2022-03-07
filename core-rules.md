@@ -95,7 +95,7 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 This rule replaces the ***Look Out, Sir*** rule.
 
-You cannot target a **CHARACTER** model as the primary target for a ranged weapon if:
+You cannot target a **CHARACTER** model as the *primary target* for a ranged weapon if:
 - The **CHARACTER** model's base size is smaller than 60mm; **AND**
 - The **CHARACTER** model is within 2" of any other enemy model that is ***visible*** and closer to the shooter.
 
