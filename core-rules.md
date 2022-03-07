@@ -30,7 +30,7 @@ A **Vanguard Detachment** is identical to a ***Patrol Detachment***, with the fo
 
 - This detachment is always considered ***Battle Forged***.
 - The ***HQ*** unit requirement is ignored for games under 300 points.
-- The ***TROOP*** unit requirement can optionally be satisfied by a ***Understrength*** unit that costs at least 1/4 of the total points cost for your army.
+- The ***TROOP*** unit requirement can be satisfied with an ***Understrength*** unit that costs at least 1/4 of the total points cost for your army.
 - Units that are not used to satisfy the minimum requirements of this detachment may be ***Understrength*** without penalty.
 - Units may ignore the unit size requirements for ***Wargear Options***.
 
