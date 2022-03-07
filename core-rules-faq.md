@@ -1,4 +1,4 @@
-# 40k Scout Team FAQ
+# 40k Vanguard FAQ
 
 ***What is the recommended game size?***
 
