@@ -1,8 +1,8 @@
-# 40k Scout Team Rules
+# 40k Vanguard Rules
 
 ***Text in Bold-Italics*** refers to an official term or rule from the 40k core rules.
 
-**Text in Bold** refers to a Scout Team specific term or rule.
+**Text in Bold** refers to Vanguard specific term or rule.
 
 *Text in Italics* is normal emphasis.
 
@@ -14,19 +14,19 @@ If any rule here contradicts an earlier rule, then the latter rule overrides the
 
 ## Immutable Laws
 
-*Scout Team* is played according to the normal 40k core rules for a game size of ***Combat Patrol***, unless stated otherwise.
+**Vanguard** is played according to the normal 40k core rules for a game size of ***Combat Patrol***, unless stated otherwise.
 
 Armies must calculate their cost in points.
 
-Armies must use the **Scout Detachment** detailed below.
+Armies must use the **Vanguard Detachment** detailed below.
 
 The minimum ***Battlefield Size*** is 22" x 30".
 
 > The smaller ***Battlefield Size*** is intended to cater for very small games or smaller playing spaces, but it is otherwise recommended that you use the normal ***Battlefield Size*** of 44" x 30".
 
-## Scout Detachment
+## Vanguard Detachment
 
-A **Scout Detachment** is identical to a ***Patrol Detachment***, with the following exceptions:
+A **Vanguard Detachment** is identical to a ***Patrol Detachment***, with the following exceptions:
 
 - This detachment is always considered ***Battle Forged***.
 - The ***HQ*** unit requirement is ignored for games under 300 points.
