@@ -91,7 +91,7 @@ This rule replaces the ***Look Out, Sir*** rule.
 
 You cannot target a ***CHARACTER*** model as the *primary target* for a ranged weapon if:
 - The ***CHARACTER*** model's base size is smaller than 60mm; **AND**
-    - For bases that aren't circular in shape, use the shortest possible measurement.
+    - For bases that aren't circular, use the shortest distance.
 - The ***CHARACTER*** model is within 2" of any other enemy model that is ***visible*** and closer to the shooter.
 
 > This rule encourages players to spend points on strong ***CHARACTER*** models by retaining the ability to protect them, which is healthy in larger games, while also preventing tiny cannon fodder from screening very large models.
