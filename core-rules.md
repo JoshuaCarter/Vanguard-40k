@@ -62,12 +62,10 @@ When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability
 
 1. Select the *primary target* model for this weapon.
 1. Allocate the first attack to the *primary target*.
-1. Allocate each remaining attack to:
-    - The *primary target*; **OR**
-    - Any other enemy model that is:
-        - Within 3" of the *primary target*; **AND**
-        - Within range of the shooter; **AND**
-        - ***Visible*** to the shooter.
+1. Allocate each remaining attack to the *primary target, or to any other enemy model that is:
+    - Within 3" of the *primary target*; **AND**
+    - Within range of the shooter; **AND**
+    - ***Visible*** to the shooter.
 
 > This prevents multi-attack weapons from being useless against enemy hoards. It also helps to make each model's shooting a bit more interesting.
 
