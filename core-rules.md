@@ -71,15 +71,11 @@ When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability
 
 #### Explosive Fire
 
-Weapons with the ***Blast*** ability have a **Blast Range** of:
-
-- 1" if it is a ***Grenade***.
-- 2" for all other ***Blast*** weapons.
+Weapons with the ***Blast*** ability have a **Blast Range** of 1" if it is a ***Grenade***, and 2" for all other ***Blast*** weapons.
 
 When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, follow these steps:
 
-1. Select the *primary target* model for this weapon.
-    - There must be no friendly models within **Blast Range** range of the *primary target*.
+1. Select the *primary target* model for this weapon. There must be no friendly models within **Blast Range** range of the *primary target*.
 1. Form a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units) of all enemies which are:
     - Within **Blast Range** of the *primary target*; **AND**
     - ***Visible*** to the *primary target*.
