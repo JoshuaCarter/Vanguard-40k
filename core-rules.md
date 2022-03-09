@@ -58,12 +58,12 @@ All models are considered to be in ***Unit Coherency*** at all times, even when 
 
 #### Split Fire
 
-When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemy models by following these steps:
+When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemy models by following these steps:
 
-1. Select the *primary target* model for this weapon.
-1. Allocate the first attack to the *primary target*.
-1. Allocate each remaining attack to the *primary target*, or to any other enemy model that is:
-    - Within 3" of the *primary target*; **AND**
+1. Select the initial target model for this weapon.
+1. Allocate the first attack to the initial target.
+1. Allocate each remaining attack to the initial target, or to any other enemy model that is:
+    - Within 3" of the intial target; **AND**
     - Within range of the shooter; **AND**
     - ***Visible*** to the shooter.
 
@@ -71,17 +71,18 @@ When ***Selecting Targets*** for a ranged weapon without the ***Blast*** ability
 
 #### Explosive Fire
 
-Weapons with the ***Blast*** ability have a **Blast Range** of 1" if it is a ***Grenade***, and 2" for all other ***Blast*** weapons.
+Weapons with the ***Blast*** ability have a **Blast Range** of 1" for ***Grenades***, and 2" otherwise.
 
-When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, follow these steps:
+When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
-1. Select the *primary target* model for this weapon. There must be no friendly models within **Blast Range** range of the *primary target*.
+1. Select the initial target model for this weapon. There must be no friendly models within **Blast Range** range of the initial target.
 1. Form a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units) of all enemies which are:
-    - Within **Blast Range** of the *primary target*; **AND**
-    - ***Visible*** to the *primary target*.
+    - Within **Blast Range** of the initial target; **AND**
+    - ***Visible*** to the initial target.
 1. Calculate the total number of attacks against the **Combined Unit**.
-1. Allocate the first attack to the *primary target* model.
-1. Allocate the remaining attacks *evenly* to models in the **Combined Unit**, in an order of your choosing.
+1. Allocate the first attack to the initial target model.
+1. Allocate attacks to the other models within **Blast Range**, in an order of your choosing, until all models have been allocated an attack.
+1. Repeat steps 4-5 until all attacks are allocated.
 
 > This prevents blast weapons from being useless against enemy hoards. It also adds the interesting ability to attack targets that aren't ***visible*** to the shooter (by firing at a nearby model who is).
 
@@ -89,11 +90,12 @@ When ***Selecting Targets*** for a ranged weapon with the ***Blast*** ability, f
 
 This rule replaces the ***Look Out, Sir*** rule.
 
-You cannot target a ***CHARACTER*** model as the *primary target* for a ranged weapon if:
-- The ***CHARACTER*** model's base size is smaller than 60mm (for bases that aren't circular, use the shortest distance); **AND**
-- The ***CHARACTER*** model is within 2" of any other enemy model that is ***visible*** and closer to the shooter.
+You cannot target a ***CHARACTER*** model, or allocated attacks from a ranged weapon without the ***Blast*** ability to a ***CHARACTER*** model, if that model is within 2" of any other enemy model that:
+- Is ***Visible*** to the shooter; **AND**
+- Is closer to the shooter; **AND**
+- Has a base size no more than 10mm smaller than that model's base (for non-circular bases, use the largest measurement).
 
-> This rule encourages players to spend points on strong ***CHARACTER*** models by retaining the ability to protect them, which is healthy in larger games, while also preventing tiny cannon fodder from screening very large models.
+> This rule encourages players to spend points on strong ***CHARACTER*** models by retaining the ability to protect them, which is healthy in larger games, while also preventing small models from screening much larger models.
 
 ---
 
