@@ -79,7 +79,7 @@ When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 1. Form a [**Combined Unit**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/core-rules.md#combined-units) of all enemies which are:
     - Within **Blast Range** of the initial target; **AND**
     - ***Visible*** to the initial target.
-1. Calculate the total number of attacks against the **Combined Unit**.
+1. Calculate the total number of attacks using the **Combined Unit**.
 1. Allocate the first attack to the initial target model.
 1. Allocate attacks to the other models within **Blast Range**, in an order of your choosing, until all models have been allocated an attack.
 1. Repeat steps 4-5 until all attacks are allocated.
