@@ -55,7 +55,7 @@ When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** abili
 When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
 1. Select the initial target model for this weapon. There must be no friendly models within *Blast Range* range of the initial target.
-1. Determine which enemies which are:
+1. Determine which enemies are:
     - Within *Blast Range* of the initial target; **AND**
     - ***Visible*** to the initial target.
 1. Treat these enemies as belonging to a single unit for the following steps.
