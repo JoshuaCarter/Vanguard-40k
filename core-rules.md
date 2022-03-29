@@ -34,7 +34,7 @@ All detachments include the following rules:
 
 #### Split Units
 
-After the ***Muster Armies*** mission step and before deploying your army, all units in your army are split up so that each model is now its own unit with a ***Starting Strength*** of 1.
+After the ***Muster Armies*** mission step and before deploying your army, split up all units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
 
 All models are considered to be in ***Unit Coherency*** at all times.
 
