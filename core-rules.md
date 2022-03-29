@@ -3,19 +3,11 @@
 Text in ***Bold-Italics*** refers to an official term or rule from the 40k core rules. See [**Terms**](https://github.com/JoshuaCarter/40k-Vanguard/blob/main/terms.md).
 > Text in quote-blocks are designer notes.
 
-## The Golden Rule
+## The Golden Rules
 
-If any rule here contradicts an earlier rule, then the latter rule overrides the former.
-
-## Immutable Laws
-
-Vanguard is played according to the normal 40k core rules unless stated otherwise.
-
-Armies must calculate their cost in points.
-
-The minimum ***Battlefield Size*** is 22" x 30".
-
-> The smaller ***Battlefield Size*** is intended to cater for very small games or smaller playing spaces, but it is otherwise recommended that you use the normal ***Battlefield Size*** of 44" x 30".
+- If any rule here contradicts an earlier rule, then the latter rule overrides the former.
+- Vanguard is played according to the normal 40k core rules unless stated otherwise.
+- Armies must calculate their cost in points.
 
 ## Detachments
 
@@ -32,11 +24,9 @@ All detachments include the following rules:
 
 ### Mission Setup
 
-#### Split Units
+#### Muster Armies
 
-After the ***Muster Armies*** mission step and before deploying your army, split up all units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
-
-All models are considered to be in ***Unit Coherency*** at all times.
+At the end of the ***Muster Armies*** mission step, split up all units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
 
 > This allows models to act autonomously for the duration of the game. Wherever the core rules refers to a "unit", you can mentally substitute "model" (with some exceptions covered further below).
 
@@ -44,7 +34,7 @@ All models are considered to be in ***Unit Coherency*** at all times.
 
 ### Shooting Phase
 
-#### Split Fire
+#### Selecting Targets
 
 When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemy models by following these steps:
 
@@ -57,7 +47,7 @@ When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** abili
 
 > This prevents multi-attack weapons from being useless against enemy hoards. It also helps to make each model's shooting a bit more interesting.
 
-#### Explosive Fire
+#### Blast Weapons
 
 - Weapons with the ***Blast*** ability have a *Blast Range* of 2".
 - ***Grenade*** weapons with the ***Blast*** ability have a *Blast Range* of 1".
@@ -76,9 +66,7 @@ When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
 > This prevents blast weapons from being useless against enemy hoards. It also adds the interesting ability to attack targets that aren't ***visible*** to the shooter (by firing at a nearby model who is).
 
-#### Bodyguards
-
-This rule replaces the ***Look Out, Sir*** rule.
+#### Look Out, Sir
 
 You cannot target a ***CHARACTER*** model, or allocated attacks from a ranged weapon without the ***Blast*** ability to a ***CHARACTER*** model, if that model is within 2" of any other enemy model that:
 - Is ***Visible*** to the shooter; **AND**
@@ -91,14 +79,12 @@ You cannot target a ***CHARACTER*** model, or allocated attacks from a ranged we
 
 ### Morale Phase
 
-#### Team Spirit
-
 For the duration of the ***Morale Phase*** treat all friendly models on the battlefield as a belonging to a single unit.
 
 > This means that at most, each player will roll a single ***Morale Check*** per ***Morale Phase***.
 
-#### Heavy Losses
+#### Morale Tests
 
-When rolling a ***Morale Check***, if your army is ***Below Half-strength***, you instead roll a D6 and add *twice* the number of models destroyed this turn.
+When rolling a ***Morale Test***, if your army is ***Below Half-strength***, you instead roll a D6 and add *twice* the number of models destroyed this turn.
 
 > The skirmish nature of the game means that it's a bit too easy to pass ***Morale Checks***, even when your losses are significant.
