@@ -3,7 +3,7 @@
 This is a personal project to re-imagine ***Warhammer 40k Kill Team*** according to what I believe to be the proper objectives.
 
 - [Core Rules](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules.md)
-- [Core Rules FAQ](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/core-rules-faq.md)
+- [FAQ](https://github.com/JoshuaCarter/40k-Scout-Team/blob/main/faq.md)
 
 ## Design Goals
 
