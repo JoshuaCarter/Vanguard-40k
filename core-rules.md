@@ -15,8 +15,8 @@ All detachments include the following rules:
 
 - This detachment may be ***Battle Forged*** even if it contains ***Understrength*** units.
 - Ignore ***HQ*** unit requirements for games under 300 points.
-- Unit requirements can be fullfilled with ***Understrength*** units that cost least 1/2 of your army's total points cost.
-- Detachments that require multiple units of the same ***Battlefield Role*** instead only require one unit of that ***Battlefield Role***.
+- Unit requirements can be fullfilled with ***Understrength*** units that cost least 1/4 of your army's total points cost.
+- Detachments never require more than 2 units of the same ***Battlefield Role***.
 - Ignore unit size requirements for ***Wargear Options***.
 
 > These additions keep army composition flexible and wargear options varied, even for very small games. Re-adding the ***HQ*** requirement in larger games helps slow the growing model count.
