@@ -13,10 +13,11 @@ Text in ***Bold-Italics*** refers to an official term or rule from the 40k core 
 
 All detachments include the following rules:
 
-- This detachment may be ***Battle Forged*** even if it contains ***Understrength***  units.
-- Units can ignore the unit size requirements for ***Wargear Options***.
-- The ***HQ*** unit requirement can be ignored for games under 300 points.
-- You can treat all unit(s) for each required ***Battlefield Role*** as fulfilled, if at least 1/2 of your army's points have been spent on unit(s) with a matching ***Battlefield Role***.
+- This detachment may be ***Battle Forged*** even if it contains ***Understrength*** units.
+- Ignore unit size requirements for ***Wargear Options***.
+- Ignore ***HQ*** unit requirements for games under 300 points.
+- Unit requirements can be fullfilled with ***Understrength*** units that cost least 1/2 of your army's total points cost.
+- Detachments that require multiple units of the same ***Battlefield Role*** instead only require one unit of that ***Battlefield Role***.
 
 > These additions keep army composition flexible and wargear options varied, even for very small games. Re-adding the ***HQ*** requirement in larger games helps slow the growing model count.
 
