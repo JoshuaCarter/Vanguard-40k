@@ -37,7 +37,7 @@ At the end of the ***Muster Armies*** mission step, split up all units in your a
 
 #### Selecting Targets
 
-When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** ability, if that weapon can make multiple attacks you can choose to allocate those attacks to multiple enemy models by following these steps:
+When ***Selecting Targets*** for a non-***Blast*** ranged weapon with multiple attacks, you can choose to allocate those attacks to multiple enemy models by following these steps:
 
 1. Select the initial target model for this weapon.
 1. Allocate the first attack to the initial target.
@@ -50,7 +50,7 @@ When ***Selecting Targets*** for a ranged weapon *without* the ***Blast*** abili
 
 #### Blast Weapons
 
-- Weapons with the ***Blast*** ability have a *Blast Range* of 2".
+- ***Blast*** weapons have a *Blast Range* of 2".
 - ***Grenade*** weapons with the ***Blast*** ability have a *Blast Range* of 1".
 
 When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
@@ -69,10 +69,10 @@ When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
 #### Look Out, Sir
 
-You cannot target a ***CHARACTER*** model, or allocated attacks from a ranged weapon without the ***Blast*** ability to a ***CHARACTER*** model, if that model is within 2" of any other enemy model that:
+You cannot target a ***CHARACTER*** model, or allocated attacks from a non-***Blast*** ranged weapon to a ***CHARACTER*** model if that model is within 2" of any other enemy model that:
 - Is ***Visible*** to the shooter; **AND**
 - Is closer to the shooter; **AND**
-- Has a base or hull size no more than 10mm smaller than that model's base (always use the largest possible measurement).
+- Has a base or hull size no more than 10mm smaller than the ***CHARACTER*** model's base (always use the largest possible measurement).
 
 > This rule encourages players to spend points on strong ***CHARACTER*** models by retaining the ability to protect them, which is healthy in larger games, while also preventing small models from screening much larger models.
 
