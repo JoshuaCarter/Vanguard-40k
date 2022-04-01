@@ -9,7 +9,9 @@ Text in ***Bold-Italics*** refers to an official term or rule from the 40k core 
 - Vanguard is played according to the normal 40k core rules unless stated otherwise.
 - Armies must calculate their cost in points.
 
-## Detachments
+## Core Rules Alterations
+
+### Detachments
 
 All detachments include the following rules:
 
@@ -20,8 +22,6 @@ All detachments include the following rules:
 - Ignore unit size requirements for ***Wargear Options***.
 
 > These additions keep army composition flexible and wargear options varied, even for very small games. Re-adding the ***HQ*** requirement in larger games helps slow the growing model count.
-
-## Core Rules Alterations
 
 ### Mission Setup
 
