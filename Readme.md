@@ -2,7 +2,7 @@
 
 This project exists to offer an alternative way to play Warhammer 40k, by addressing two of it's most critical flaws - it can be big and slow, and it has a high barrier to entry for new player.
 
-You might ask *"Isn't this what Kill Team is for?"* and you'd have a point, but Kill Team is ever diverging from regular 40k (whether to provide a more unique gaming experience or to entice customers into further spending is for you to judge), and I believe it leaves a void, one which Vanguard aims to fill.
+You might ask *"Isn't that what Kill Team is for?"* and you'd have a point, but Kill Team is diverging ever further from regular 40k (whether to provide a more unique gaming experience, or to entice customers into further spending, is for you to judge), and it leaves a void, one which Vanguard aims to fill.
 
 Aside from being fun, Vanguard aims to achieve the following design goals:
 
@@ -22,7 +22,7 @@ Aside from being fun, Vanguard aims to achieve the following design goals:
 - Quick to play.
 - Easy to transport.
 
-If Vanguard sounds like a game you'd like to play, see the [Vanguard Core Rules](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md), and feel free to provide feedback on the [Discussions Page](https://github.com/JoshuaCarter/Vanguard-40k/discussions).
+If Vanguard sounds like a game you'd like to play, see the [Vanguard Core Rules](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md), and feel free to provide feedback on the [Discussion Page](https://github.com/JoshuaCarter/Vanguard-40k/discussions).
 
 ---
 

@@ -1,20 +1,15 @@
 # 40k Vanguard Rules
 
-Text in ***bold italics*** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules#References.md)).
+Text in ***bold italics*** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md#references)).
 > Text in quote-blocks are designer notes.
 
 ## The Golden Rules
 
 - Vanguard is played according to the normal 40k core rules unless stated otherwise.
 - If any rule here contradicts an earlier rule, then the latter rule overrides the former.
+- All games are played using a ***points limit***.
 
-## Core Rules Alterations
-
-All games are played using a ***points limit***.
-
-> Power level is simply too inexact for our needs.
-
----
+## Building An Army
 
 ### Detachments
 
@@ -24,21 +19,23 @@ All ***Detachments*** include the following rules:
 - Units in this detachment may ignore all unit size requirements for ***Wargear Options***.
 - This detachment has no more than 1 required slot per ***Battlefield Role***.
 - You may ignore required ***HQ*** slots if the ***points limit*** is under 300.
-- Required slots can be filled by an ***Understrength*** unit that costs at least 1/4 of the ***points limit***
+- Required slots can be filled by an ***Understrength*** unit that costs at least 1/4 of the ***points limit***.
 
-> This enables players to bring a variety of units and wargear, even for very small games.
+> This enables players to bring a variety of units and wargear, even for very small games. It also makes room for specialist armies such as the White Scars.
 
 ---
 
-### Mission Setup
+## Missions
 
-#### Muster Armies
+### Muster Armies
 
 At the end of the ***Muster Armies*** mission step, split up all units in your army so that each model now belongs to its own unit with a ***Starting Strength*** of 1.
 
 > This allows models to be deployed and act individually. This rule can be trickier than you may expect as it changes the context for many other rules. See the Moral Phase rules for example.
 
 ---
+
+## The Battle Round
 
 ### Shooting Phase
 
@@ -70,7 +67,7 @@ Starting with the player whose turn it is, players must perform the following st
 
 ---
 
-### References
+#### References
 
 <details>
   <summary>Click to expand</summary>
