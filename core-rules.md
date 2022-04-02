@@ -50,8 +50,7 @@ When ***Selecting Targets*** for a non-***Blast*** ranged weapon with multiple a
 
 #### Blast Weapons
 
-- ***Blast*** weapons have a *Blast Range* of 2".
-- ***Grenade*** weapons with the ***Blast*** ability have a *Blast Range* of 1".
+***Blast*** weapons have a *Blast Range* of 2".
 
 When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
