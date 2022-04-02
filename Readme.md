@@ -8,7 +8,7 @@ Aside from being fun, Vanguard aims to achieve the following design goals:
 
 #### Vanguard design goals for new players:
 
-- As much as possible, make use of the 40k core rules and codecies. This means that time and money invested into **Vanguard** also carries over into regular 40k.
+- As much as possible, stick to the 40k core rules and codecies. This means that time and money invested into **Vanguard** also carries over into regular 40k.
 
 - Avoid restricting what models and wargear a player can use, even in very small games. New models should mean new opportunities.
 
