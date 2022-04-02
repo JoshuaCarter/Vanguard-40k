@@ -14,7 +14,7 @@ Aside from being fun, Vanguard aims to achieve the following design goals:
 
 - Support very small games. This keeps the barrier to entry much lower than normal.
 
-- Allow the game to scale up with a player's growing collection of models.
+- Enable the game to scale up with a player's growing collection, until they are ready to play regular games of 40k.
 
 #### Vanguard design goals for established players:
 
