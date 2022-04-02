@@ -50,7 +50,7 @@ When ***Selecting Targets*** for a non-***Blast*** ranged weapon with multiple a
 
 #### Blast Weapons
 
-***Blast*** weapons have a *Blast Range* of 2".
+***Blast*** weapons have a *Blast Range* of 2.5" from the center of the target model's base.
 
 When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 
@@ -64,7 +64,7 @@ When ***Selecting Targets*** for a ***Blast*** weapon, follow these steps:
 1. Allocate attacks to the other models in an order of your choosing, until all models have been allocated an attack.
 1. Repeat steps 5-6 until all attacks are allocated.
 
-> This prevents blast weapons from being useless against enemy hoards. It also adds the interesting ability to attack targets that aren't ***visible*** to the shooter (by firing at a nearby model who is).
+> This prevents blast weapons from being useless against enemy hoards. It also adds the interesting ability to attack targets that aren't ***visible*** to the shooter (by firing at a nearby model who is). The range matches an old school blast template.
 
 #### Look Out, Sir
 
