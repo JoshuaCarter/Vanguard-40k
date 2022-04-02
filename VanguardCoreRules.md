@@ -41,7 +41,7 @@ At the end of the ***Muster Armies*** mission step, split up all units in your a
 
 #### Selecting Targets
 
-You may select additional targets for a ranged weapon provided all targets are within 2" of the initial target. Resolve attacks against selected target individually.
+You may select additional targets for a ranged weapon provided all targets are within 2" of the initial target. Resolve attacks against selected targets separately.
 
 ***Blast*** weapons can only select an initial target that is not within 2" of a friendly model, and must select all additional targets within 2" that are ***visible*** to the initial target. Resolve attacks as though all selected targets belong to a single unit.
 
@@ -61,7 +61,7 @@ Starting with the player whose turn it is, players must perform the following st
 
 1. Perform a ***Morale Test*** for each unit in your army and count the total number of failures. Models do not flee when failing this test.
 
-1. Perform a ***Combat Attrition Test*** for each failed ***Morale Test***, subtracting 1 from the result if your *army* is under ***Half-strength***. You decide which model from your *army* flees.
+1. For each failed ***Morale Test***, perform a ***Combat Attrition Test***, subtracting 1 from the result if your *army* is under ***Half-strength***. You decide which models from your *army* flee.
 
 > This keeps morale functional and the odds of a model fleeing close to normal.
 

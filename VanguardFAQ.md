@@ -19,24 +19,24 @@ You may find that some faction specific rules (***Abilities***, ***Relics***, **
 - Any of the above but also restricted to ***visible*** models; **OR**
 - Any of the above but also restricted to ***friendly*** or ***enemy*** models.
 
-Generally this shouldn't be done for rules that still function as intended but only affects a single model. You should discuss your situation with your opponent until you both agree on a solution.
+Generally this shouldn't be done for rules that still function as intended but only affect a single model. You should discuss your situation with your opponent until you both agree on a solution.
 
 ---
 
-#### ***Can we use a BattleField Size of 22"x30" (like Kill Team)?***
+#### ***Can I use a BattleField Size of 22"x30" (like Kill Team)?***
 
 Yes, provided your opponent agrees.
 
 ---
 
-#### ***Is there a min/max points limit?***
+#### ***Is there a minimum/maximum points limit?***
 
-No, this is intentionally undefined. While Vanguard plays best with a points limit of 100-300, any size is just fine (provided your opponent agrees).
+No, this is intentionally undefined. While Vanguard plays best with a points limit of 100-300, any size that works for you and your opponent is fine.
 
 ---
 
 #### ***How does cover work with Blast weapons?***
 
-For the initial target cover is determined normally. Additional targets determine what cover they may benefit from by treating the attack as though it was fired by the initial target (the location of the blast). This means that only the terrain between the initial target and the other targets will be relevant.
+For the initial target cover is determined normally. Additional targets determine what cover they may benefit from by treating attacks as though they were fired from the initial target (the location of the blast). This means that only terrain between the initial target and other targets will be relevant.
 
 ---
