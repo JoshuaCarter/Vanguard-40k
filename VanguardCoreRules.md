@@ -29,9 +29,9 @@ All ***Detachments*** include the following rules:
 
 ### Muster Armies
 
-At the end of the ***Muster Armies*** mission step, split up all non-***HQ*** units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
+At the end of the ***Muster Armies*** mission step, you may break up any number of units in your army into smaller units of any size. All units start the game with a ***Starting Strength*** matching the number of models it contains.
 
-> This allows models to be deployed and act individually. This rule can be trickier than you may expect as it changes the context for many other rules. See the Moral Phase rules for example.
+> This enables models to be deployed and act individually, without forcefully splitting up units that would suffer from doing so, such as Grimaldus who's servitors can take wounds on his behalf.
 
 ---
 
@@ -45,13 +45,13 @@ You may select additional targets for a ranged weapon provided all targets are w
 
 ***Blast*** weapons can only select an initial target that is not within 2" of a friendly model, and must select all additional targets within 2". Resolve attacks as though all selected targets belong to a single unit.
 
-> This prevents multi-attack weapons from only being able to target a single model.
+> This prevents multi-attack weapons from only being able to target a single model in most cases.
 
 #### Look Out, Sir
 
 Ignore the requirement for friendly units to contain 3+ models.
 
-> This keep the rule functional in the absence of multi-model units.
+> This keep the rule functional even after breaking units up into smaller units of 1-2 models.
 
 ---
 
