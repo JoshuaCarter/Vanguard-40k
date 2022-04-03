@@ -41,9 +41,7 @@ At the end of the ***Muster Armies*** mission step, you may break up any number 
 
 #### Selecting Targets
 
-You may select additional targets for a ranged weapon provided all targets are within 2" of the initial target. Resolve attacks against selected targets separately.
-
-***Blast*** weapons can only select an initial target that is not within 2" of a friendly model, and must select all additional targets within 2". Resolve attacks as though all selected targets belong to a single unit.
+When selectings targets, you may choose whether to target a unit and resolve attacks normally, or target a model and resolve attacks against all enemy models within 2" of the target model, that aren't a ***Vehicle***, ***Monster***, or ***HQ***, as though it were a single unit.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
