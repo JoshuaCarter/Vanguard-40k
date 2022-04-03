@@ -35,8 +35,8 @@ No, this is intentionally undefined. While Vanguard plays best with a points lim
 
 ---
 
-#### ***How does cover work with Blast weapons?***
+#### ***How do you make wound rolls with Blast weapons when the target unit has multiple toughness values?***
 
-For the initial target cover is determined normally. Additional targets determine what cover they may benefit from by treating attacks as though they were fired from the initial target (the location of the blast). This means that only terrain between the initial target and other targets will be relevant.
+Use the majority toughness value; in the case of a tie use the highest value.
 
 ---
