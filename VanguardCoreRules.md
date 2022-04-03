@@ -15,7 +15,7 @@ Text in ***bold italics*** refers to an official term from the 40k core book (se
 
 All ***Detachments*** include the following rules:
 
-- This detachment is always considered ***Battle Forged***.
+- This detachment is always considered ***Battle Forged***, even if it contains ***Understrength*** units.
 - Units in this detachment may ignore all unit size requirements for ***Wargear Options***.
 - This detachment has no more than 1 required slot per ***Battlefield Role***.
 - This detachment has no required ***HQ*** slots if the ***points limit*** is under 300.
