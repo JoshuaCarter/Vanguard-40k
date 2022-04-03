@@ -61,7 +61,7 @@ Starting with the player whose turn it is, players must perform the following st
 
 1. Perform a ***Morale Test*** for each unit in your army and count the total number of failures. Models do not flee when failing this test.
 
-1. For each failed ***Morale Test***, perform a ***Combat Attrition Test***, subtracting 1 from the result if your *army* is under ***Half-strength***. You decide which models from your *army* flee.
+1. For each failed ***Morale Test***, perform a ***Combat Attrition Test***, subtracting 1 from all results if your *army* is under ***Half-strength***. You decide which models from your *army* flee.
 
 > This keeps morale functional and the odds of a model fleeing close to normal.
 
