@@ -41,7 +41,10 @@ At the end of the ***Muster Armies*** mission step, you may break up any number 
 
 #### Selecting Targets
 
-When selectings targets, you may choose whether to target a unit and resolve attacks normally, or target a model and resolve attacks against all enemy models within 2" of the target model, that aren't a ***Vehicle***, ***Monster***, or ***HQ***, as though it were a single unit.
+When selectings targets, you may choose either of the following:
+
+- Target a unit and resolve attacks normally.
+- Target a model and resolve attacks against all enemy models within 2" of the target model, that aren't a ***Vehicle***, ***Monster***, or ***HQ***, as though it were a single unit.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
