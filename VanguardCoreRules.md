@@ -59,7 +59,7 @@ Ignore the requirement for friendly units to contain 3+ models.
 
 When performing ***Morale Tests*** and ***Combat Attrition Tests***, treat all ***Understrength*** units in your army with the same ***Unit Name*** as though they are a single unit.
 
-> This keep the rule functional even after breaking units up into smaller units.
+> This keep the rule functional even after breaking units up into smaller units, without impacting units that didn't start the game understrength.
 
 ---
 
