@@ -57,13 +57,9 @@ Ignore the requirement for friendly units to contain 3+ models.
 
 ### Morale Phase
 
-Starting with the player whose turn it is, players must perform the following steps:
+When performing ***Morale Tests*** and **Combat Attrition Tests***, treat all ***Understrength*** units in your army with the same ***Unit Name*** as though they are a single unit.
 
-1. Perform a ***Morale Test*** for each unit in your army and count the total number of failures. Models do not flee when failing this test.
-
-1. For each failed ***Morale Test***, perform a ***Combat Attrition Test***, subtracting 1 from all results if your *army* is under ***Half-strength***. You decide which models from your *army* flee.
-
-> This keeps morale functional and the odds of a model fleeing close to normal.
+> This keep the rule functional even after breaking units up into smaller units.
 
 ---
 
