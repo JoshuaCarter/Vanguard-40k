@@ -29,7 +29,7 @@ All ***Detachments*** include the following rules:
 
 ### Muster Armies
 
-At the end of the ***Muster Armies*** mission step, split up all units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
+At the end of the ***Muster Armies*** mission step, split up all non-***HQ*** units in your army so that each model is now its own unit with a ***Starting Strength*** of 1.
 
 > This allows models to be deployed and act individually. This rule can be trickier than you may expect as it changes the context for many other rules. See the Moral Phase rules for example.
 
