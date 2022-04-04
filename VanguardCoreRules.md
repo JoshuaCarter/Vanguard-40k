@@ -17,7 +17,7 @@ All ***Detachments*** include the following rules:
 
 - This detachment can be ***Battle Forged*** even if it contains ***Understrength*** units.
 - Units in this detachment may ignore all unit size requirements for ***Wargear Options***.
-- This detachment has no more than 1 required slot per ***Battlefield Role***.
+- This detachment requires no more than 1 slot per ***Battlefield Role***.
 - This detachment has no required ***HQ*** slots if the ***points limit*** is under 300.
 - Required slots can be filled by an ***Understrength*** unit that costs at least 1/4 of the ***points limit***.
 
