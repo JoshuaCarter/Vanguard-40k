@@ -41,7 +41,7 @@ At the end of the ***Muster Armies*** mission step, you may break up any number 
 
 #### Selecting Targets
 
-After selecting a target unit for a weapon, you may select any number of additional targets within 2" of the initial target. You may allocate any number of attacks to each targets. Resolve all attacks against a unit before proceeding to the next. To determine the number of attacks for a ***blast*** weapon, use the total number of *models* in all target units.
+After selecting a target unit for a weapon, you may select any number of additional targets within 2" of the initial target. You may allocate any number of attacks to each target. Resolve all attacks against a unit before proceeding to the next. To determine the number of attacks for a ***blast*** weapon, use the total number of *models* in all target units.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
