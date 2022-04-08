@@ -44,7 +44,7 @@ At the end of the ***Muster Armies*** mission step, you may break up any number 
 When selectings targets, you may choose either of the following:
 
 - Target a unit and resolve attacks normally.
-- Target a model and resolve attacks against all enemy models within 2" of the target model, that aren't a ***Vehicle***, ***Monster***, or ***HQ***, as though it were a single unit. If you are attacking with a ***blast*** weapon, then there must not be any friendly models within 2" of the target model.
+- Target a model and resolve attacks against all enemy models within 2" of the target model, that aren't a ***Vehicle***, ***Monster***, or ***HQ***, as though it were a single unit. Instead of assigning successful wounds to models, assign successful hits. If you are attacking with a ***blast*** weapon, then there must not be any friendly models within 2" of the target model.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
