@@ -19,7 +19,7 @@ All ***Detachments*** include the following rules:
 - Units in this detachment may ignore all unit size requirements for ***Wargear Options***.
 - This detachment requires no more than 1 slot per ***Battlefield Role***.
 - This detachment requires no ***HQ*** slots if the ***points limit*** is under 300.
-- Required slots can be filled by an ***Understrength*** unit that costs at least 1/4 of the ***points limit***.
+- Required slots can be filled by an ***Understrength*** unit, provided it costs at least 1/4 of the ***points limit***.
 
 > This enables players to bring a variety of units and wargear, even for very small games. It also makes room for specialist armies such as the White Scars.
 
