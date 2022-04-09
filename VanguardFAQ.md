@@ -34,9 +34,3 @@ Yes, provided your opponent agrees.
 No, this is intentionally undefined. While Vanguard plays best with a points limit of 100-300, any size that works for you and your opponent is fine.
 
 ---
-
-#### ***How do you make wound rolls with Blast weapons when the target unit has multiple toughness values?***
-
-Use the majority toughness value; in the case of a tie use the highest value.
-
----
