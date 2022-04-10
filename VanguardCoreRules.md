@@ -27,9 +27,9 @@ All ***Detachments*** include the following rules:
 
 ## Missions
 
-### Muster Armies
+### Deploy Forces
 
-At the end of the ***Muster Armies*** mission step, you may break up any number of units in your army into smaller units of any size.
+At the start of deployment, before any units have been set up, you may split up units in your army into smaller units of any size.
 
 > This enables models to be deployed and act individually, without forcefully splitting up units that would suffer from doing so, such as Grimaldus who's servitors can take wounds on his behalf.
 
@@ -81,7 +81,7 @@ You can find these terms in the 40k "Core Book" on the pages listed.
 | ***HQ*** | 247 |
 | ***Look Out, Sir*** | 219 |
 | ***Morale Test*** | 233 |
-| ***Muster Armies*** | 236 |
+| ***Deploy Forces*** | 236 |
 | ***Points Limit*** | 241 |
 | ***Selecting Targets*** | 216 |
 | ***Starting Strength*** | 201 |
