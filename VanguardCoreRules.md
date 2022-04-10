@@ -6,7 +6,6 @@ Text in ***bold italics*** refers to an official term from the 40k core book (se
 ## The Golden Rules
 
 - Vanguard is played according to the normal 40k core rules unless stated otherwise.
-- If any rule here contradicts an earlier rule, then the latter rule overrides the former.
 - All games are played using a ***points limit***.
 
 ## Building An Army
