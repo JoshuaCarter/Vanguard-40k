@@ -4,8 +4,6 @@ This project exists to offer an alternative way to play Warhammer 40k, by addres
 
 You might ask *"Isn't that what Kill Team is for?"* and you'd have a point, but Kill Team is diverging ever further from regular 40k and it leaves a void, one which Vanguard attempts to fill.
 
-Aside from being fun, Vanguard aims to achieve the following design goals:
-
 #### Vanguard design goals for new players:
 
 - As much as possible, stick to the 40k core rules and codecies. This means that time and money invested into **Vanguard** also carries over into regular 40k.
