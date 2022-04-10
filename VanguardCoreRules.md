@@ -29,7 +29,7 @@ All ***Detachments*** include the following rules:
 
 ### Muster Armies
 
-At the end of the ***Muster Armies*** mission step, you may break up any number of units in your army into smaller units of any size. All units split up in this way start the game with a ***Starting Strength*** matching the number of models it contains.
+At the end of the ***Muster Armies*** mission step, you may break up any number of units in your army into smaller units of any size.
 
 > This enables models to be deployed and act individually, without forcefully splitting up units that would suffer from doing so, such as Grimaldus who's servitors can take wounds on his behalf.
 
