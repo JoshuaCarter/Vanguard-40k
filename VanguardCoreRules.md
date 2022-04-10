@@ -41,7 +41,7 @@ At the start of deployment, before any units have been set up, you may split up 
 
 #### Selecting Targets
 
-After selecting a target unit for a weapon, you may select any number of additional targets within 2" of the initial target. You may allocate any number of attacks to each target. Resolve all attacks against a unit before proceeding to the next. To determine the number of attacks for a ***blast*** weapon, use the total number of *models* in all target units.
+After selecting a target unit for a weapon, you may select any number of additional targets within 2" of the initial target. You may allocate any number of attacks to each target. To determine the number of attacks for a ***blast*** weapon, use the total number of *models* in all target units.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
