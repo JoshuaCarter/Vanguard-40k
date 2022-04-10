@@ -40,7 +40,7 @@ At the start of deployment, before any units have been set up, you may split up 
 
 #### Selecting Targets
 
-When selecting a target for a ranged weapon, you may select an enemy model and target all enemy models within 2" that have the same ***Unit Name*** as though they were a unit.
+Instead of selecting an enemy unit for a ranged weapon, you may optionally select an enemy model and target all enemy models within 2" that have the same ***Unit Name*** as though they were a unit.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
