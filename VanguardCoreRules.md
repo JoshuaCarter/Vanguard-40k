@@ -54,7 +54,7 @@ Ignore the requirement for friendly units to contain 3+ models.
 
 ### Morale Phase
 
-When performing ***Morale Tests*** and ***Combat Attrition Tests***, treat all units in your army with the same ***Unit Name*** as though they are a single unit.
+During the ***Morale Tests*** step, treat all units in your army with the same ***Unit Name*** as though they are a single unit.
 
 > This keep the rule functional even after breaking units up into smaller units.
 
