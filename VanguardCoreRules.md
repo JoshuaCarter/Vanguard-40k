@@ -1,24 +1,24 @@
 # 40k Vanguard Rules
 
-Text in ***bold italics*** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md#references)).
+Vanguard is played according to the normal 40k core rules unless stated otherwise.
+
+Text in **bold** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md#references)).
+
 > Text in quote-blocks are designer notes.
-
-## The Golden Rules
-
-- Vanguard is played according to the normal 40k core rules unless stated otherwise.
-- All games are played using a ***points limit***.
 
 ## Building An Army
 
+All games are played using a **points limit**.
+
 ### Detachments
 
-All ***Detachments*** include the following rules:
+All **Detachments** include the following rules:
 
-- This detachment can be ***Battle Forged*** even if it contains ***Understrength*** units.
-- Units in this detachment may ignore all unit size requirements for ***Wargear Options***.
-- This detachment requires no more than 2 slot per ***Battlefield Role***.
-- This detachment requires no ***HQ*** slots if the ***points limit*** is under 300.
-- Required slots can be filled by an ***Understrength*** unit, provided it costs at least 1/4 of the ***points limit***.
+- This detachment can be **Battle Forged** even if it contains **Understrength** units.
+- Units in this detachment may ignore all unit size requirements for **Wargear Options**.
+- This detachment requires no more than 2 slot per **Battlefield Role**.
+- This detachment requires no **HQ** slots if the **points limit** is under 300.
+- Required slots can be filled by an **Understrength** unit, provided it costs at least 1/4 of the **points limit**.
 
 > This enables players to bring a variety of units and wargear, even for very small games. It also makes room for specialist armies such as the White Scars.
 
@@ -40,7 +40,7 @@ At the start of deployment, before any units have been set up, you may split up 
 
 #### Selecting Targets
 
-When selecting a target for a ranged weapon, you may instead choose an enemy model and target any number of enemy units within 2", allocating attacks as evenly as possible to each, and resolving attacks againt each unit individually. ***Blast*** weapons use the total number of models targeted to determine the number of attacks.
+When selecting a target for a ranged weapon, you may instead choose an enemy model and target any number of enemy units within 2", allocating attacks as evenly as possible to each, and resolving attacks againt each unit individually. **Blast** weapons use the total number of models targeted to determine the number of attacks.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
@@ -56,7 +56,7 @@ Ignore the requirement for friendly units to contain 3+ models.
 
 #### Morale Tests
 
-Treat all units in your army with the same ***Unit Name*** as though they are a single unit.
+Treat all units in your army with the same **Unit Name** as though they are a single unit.
 
 > This keep the rule functional even after breaking units up into smaller units.
 
@@ -73,22 +73,22 @@ You can find these terms in the 40k "Core Book" on the pages listed.
 
 | Term | Page |
 | --- | --- |
-| ***Battlefield Role*** | 247 |
-| ***Battle Forged*** | 244 |
-| ***Blast*** | 218 |
-| ***Combat Attrition Test*** | 233 |
-| ***Detachment*** | 246 |
-| ***Half-strength*** | 201 |
-| ***HQ*** | 247 |
-| ***Look Out, Sir*** | 219 |
-| ***Morale Test*** | 233 |
-| ***Deploy Forces*** | 236 |
-| ***Points Limit*** | 241 |
-| ***Selecting Targets*** | 216 |
-| ***Starting Strength*** | 201 |
-| ***Understrength*** | 241 |
-| ***Unit Coherency*** | 198 |
-| ***Unit Name*** | 202 |
-| ***Visible*** | 216 |
-| ***Wargear Options*** | 203 |
+| **Battlefield Role** | 247 |
+| **Battle Forged** | 244 |
+| **Blast** | 218 |
+| **Combat Attrition Test** | 233 |
+| **Detachment** | 246 |
+| **Half-strength** | 201 |
+| **HQ** | 247 |
+| **Look Out, Sir** | 219 |
+| **Morale Test** | 233 |
+| **Deploy Forces** | 236 |
+| **Points Limit** | 241 |
+| **Selecting Targets** | 216 |
+| **Starting Strength** | 201 |
+| **Understrength** | 241 |
+| **Unit Coherency** | 198 |
+| **Unit Name** | 202 |
+| **Visible** | 216 |
+| **Wargear Options** | 203 |
 </details>
