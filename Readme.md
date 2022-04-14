@@ -1,6 +1,6 @@
 # Warhammer 40,000 - Vanguard
 
-This project exists to offer an alternative way to play Warhammer 40k, by addressing two of it's most critical flaws - it can be big and slow, and it has a high barrier to entry for new player.
+This project exists to offer an alternative way to play Warhammer 40k, by addressing two of it's biggest shortcomings - it can be big and slow, and it has a high barrier to entry for new player.
 
 You might ask *"Isn't that what Kill Team is for?"* and you'd have a point, but Kill Team is diverging ever further from regular 40k and it leaves a void, one which Vanguard attempts to fill.
 
