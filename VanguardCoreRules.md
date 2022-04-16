@@ -40,7 +40,7 @@ At the start of deployment, before any units have been set up, you may split up 
 
 #### Selecting Targets
 
-When selecting a target for a ranged weapon, you may instead choose an enemy model that isn't a **Character**, **Vehicle**, or **Monster**, and target any number of enemy units within 2", allocating attacks as evenly as possible to each, and resolving attacks againt each unit individually. **Blast** weapons use the total number of models targeted to determine the number of attacks.
+When selecting a target for a ranged weapon, you may instead choose an enemy model that isn't a **Character**, **Vehicle**, or **Monster**, and target any number of enemy units within 2" that aren't a **Character**, **Vehicle**, or **Monster**, allocating attacks as evenly as possible to each, and resolving attacks againt each unit individually. **Blast** weapons use the total number of models targeted to determine the number of attacks.
 
 > This prevents multi-attack weapons from only being able to target a single model in most cases.
 
