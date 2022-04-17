@@ -46,7 +46,7 @@ When selecting a target for a ranged weapon, you may instead choose an enemy mod
 
 #### Look Out, Sir
 
-Ignore the requirement for friendly units to contain 3+ models.
+Friendly units are only required to contain 2+ models.
 
 > This keep the rule functional even after breaking units up into smaller units of 1-2 models.
 
