@@ -46,7 +46,7 @@ When selecting a target for a ranged weapon, you may instead choose an enemy mod
 
 #### Look Out, Sir
 
-Friendly units are only required to contain 2+ models.
+Your **Warlord** does not need to be a **Character** to benefit from this rule. Friendly units are only required to contain 2+ models.
 
 > This keep the rule functional even after breaking units up into smaller units of 1-2 models.
 
