@@ -2,7 +2,7 @@
 
 Vanguard is played according to the normal 40k core rules unless stated otherwise.
 
-Text in **bold** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardCoreRules.md#references)).
+Text in **bold** refers to an official term from the 40k core book (see [**references**](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardRules.md#references)).
 
 > Text in quote-blocks are designer notes.
 
