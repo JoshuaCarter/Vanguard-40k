@@ -1,4 +1,4 @@
-# 40k Vanguard Rules
+# Vanguard 40k Rules
 
 Vanguard is played according to the normal 40k core rules unless stated otherwise.
 
