@@ -20,7 +20,7 @@ You might ask *"Isn't that what Kill Team is for?"* and you'd have a point, but 
 - Quick to play.
 - Easy to transport.
 
-If Vanguard sounds like a game you'd like to play, see the [Vanguard Rules](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/VanguardRules.md), and feel free to provide feedback on the [Discussion Page](https://github.com/JoshuaCarter/Vanguard-40k/discussions).
+If Vanguard sounds like a game you'd like to play, see the [Vanguard Rules](https://github.com/JoshuaCarter/Vanguard-40k/blob/main/Vanguard40kRules.md), and feel free to provide feedback on the [Discussion Page](https://github.com/JoshuaCarter/Vanguard-40k/discussions).
 
 ---
 
