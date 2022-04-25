@@ -1,4 +1,4 @@
-# Warhammer 40,000 - Vanguard
+# Vanguard Warhammer 40,000
 
 This project exists to offer an alternative way to play Warhammer 40k, by addressing two of it's biggest shortcomings - it can be big and slow, and it has a high barrier to entry for new player.
 
